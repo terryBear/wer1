@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+azure-pipelines.yaml
+docker-compose.yml
+DockerFile
+.dockerignore
+README.md
+local-env.js
